@@ -12,3 +12,7 @@
  - PO : Louis
  - SM : Giscard
  - TEAM DEVELOPPERS : Hugo , abdoulrahim, mohamed
+ 
+## Purpose
+
+ Develop an e-commerce website
