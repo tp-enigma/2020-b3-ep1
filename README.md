@@ -8,3 +8,7 @@
  - mohamed
  
 ## Roles
+
+ - PO : Louis
+ - SM : Giscard
+ - TEAM DEVELOPPERS : Hugo , abdoulrahim, mohamed
